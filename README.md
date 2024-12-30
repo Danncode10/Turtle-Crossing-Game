@@ -18,7 +18,7 @@ This project is part of the course **100 Days of Python** by Angela Yu.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/turtle-graphics-game.git
+   git clone https://github.com/Danncode10/Turtle-Crossing-Game
    ```
 2. Navigate to the project directory:
    ```bash
@@ -42,7 +42,7 @@ This project is part of the course **100 Days of Python** by Angela Yu.
 - **Levels**: Successfully reaching the top of the screen advances the player to the next level.
 
 ## Demo
-![Game Screenshot](link-to-screenshot.png)
+![Game Screenshot](demo_screenshot.png)
 
 ## Built With
 - Python 3
